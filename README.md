@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Theophilus Amoah
+- 👀 I’m interested in providing impactful solution through machine learning
+- 🌱 I’m currently learning various data science platforms to broaden my ability to realize my interest
+- 💞️ I’m looking to collaborate on finding solutions for food security and food waste
+- 📫 You can reach me on my email: theoamoah90@gmail.com
